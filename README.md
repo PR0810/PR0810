@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prachi Sahu</h1>
-<h3 align="center">Aspiring C++ | DSA | Front End Developer</h3>
+<h3 align="center">Aspiring C++ | DSA | Full Stack Developer</h3>
 <img align="right" alt="coding" width="300" align="center"  at="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxob2M3YnJkY2x6OWV5emZyZTZtM2g2MjFpOWk2cDJhMjFrb2NiYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr0810&label=Profile%20views&color=0e75b6&style=flat" alt="pr0810" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 Upskilling in React.js and modern frontend development **React js**
 
-- 💬 Ask me about **C++ and DSA**
+- 💬 Ask me about **C++ and DSA || Python (Flask)**
 
 - 📫 How to reach me **prachisahu092006@gmail.com**
 
