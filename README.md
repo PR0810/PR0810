@@ -22,8 +22,6 @@
 
 
 
-- 🌱 Upskilling in React.js and modern frontend development **React js**
-
 - 💬 Ask me about **C++ and DSA || Python (Flask)**
 
 - 📫 How to reach me **prachisahu092006@gmail.com**
