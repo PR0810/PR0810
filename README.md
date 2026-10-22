@@ -8,7 +8,7 @@
 
 🚀 Explore my portfolio to discover my projects, technical skills, and journey as a developer.
 
-🔗 **[Visit My Portfolio](https://venerable-kitsune-cd5934.netlify.app/)**
+🔗 **[Visit My Portfolio](https://prachi-sahu.netlify.app/)**
 
 ---
 
