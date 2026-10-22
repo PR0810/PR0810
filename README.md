@@ -4,6 +4,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr0810&label=Profile%20views&color=0e75b6&style=flat" alt="pr0810" /> </p>
 
+## 🌐 My Portfolio
+
+🚀 Explore my portfolio to discover my projects, technical skills, and journey as a developer.
+
+🔗 **[Visit My Portfolio](YOUR_PORTFOLIO_LINK)**
+
+---
+
+### 💻 About Me
+- 🎓 Computer Science Engineering Student
+- 🌱 Currently learning React.js and Full Stack Development
+- 💡 Interested in C++, DSA, Python, and Web Development
+- 🤝 Open to learning, collaboration, and exciting projects
+
+
+
+
+
 - 🌱 Upskilling in React.js and modern frontend development **React js**
 
 - 💬 Ask me about **C++ and DSA || Python (Flask)**
